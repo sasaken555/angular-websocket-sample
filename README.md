@@ -1,12 +1,16 @@
 # Angular WebSocket Sample
 
+![アプリサンプル画面](https://user-images.githubusercontent.com/16136760/88475849-a46a3f00-cf6e-11ea-8b06-5c29e18f831e.png)
+
 ## About
 
 WebSocketで通信するクライアント・サーバーアプリのサンプルです。
 
 それぞれの実装は以下の通りです。
 * クライアント ... Angular, RxJS (WebSocketクライアント)
-* サーバー ... [websockets/ws](https://github.com/websockets/ws) (WebSocketサーバー実装)
+* サーバー ... WebSocket([websockets/ws](https://github.com/websockets/ws)) & REST APIサーバー
+
+![アプリ構成](https://user-images.githubusercontent.com/16136760/88475878-dbd8eb80-cf6e-11ea-99e1-b2d0ee1341b9.png)
 
 ## Usage
 
